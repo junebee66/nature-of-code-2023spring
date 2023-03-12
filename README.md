@@ -16,7 +16,16 @@ This is a walk in Glitch City from the point of view of a computer ✨
 I want to explore the form of vectors using the idea of morphing point-cloud.
 #### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/02_vectors/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-2-Vector-d77ba47c234a4b1bba2c0bbee46bc66c)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/02_vectors)
 
+</br>
 
-## 3: 💨 [Forces]()<br/> 
+## 3: 💨 [Forces](https://github.com/nature-of-code/noc-syllabus-S23/tree/main/module02-forces)<br/> 
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/03_forces/Force-Forest%20Points/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-3-Forces-89c31c1a4d2d4390845c6bc6912b9821)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/03_forces)
+
+</br>
+
 ## 4: 🕰️ [Oscillating Motion]()<br/> 
-## 5: 🌎 [Simulation Project (Particle Systems & Autonomous Agents)]()br/> 
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/04_oscillating-motion/Oscillating%20Motion-Flowerverse%20Line/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-4-Oscillating-Motion-c0dac027771c41a89f903a259313aa04)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/04_oscillating-motion)
+</br>
+
+## 5: 🌎 [Simulation Project (Particle Systems & Autonomous Agents)]()
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/05_simulation_project/Simulation%20Project%20-%20Final%20Garden/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-5-Simulation-Project-98e0acc386bd4fc2ac4da2165512d409)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/05_simulation_project)
