@@ -7,17 +7,16 @@ Class work for [IMA Nature of Code course](https://github.com/nature-of-code/noc
 ## 1: 🚶🏼‍♂️ [Random Walker](https://github.com/nature-of-code/noc-syllabus-S23/tree/main/module00-intro)<br/> 
 ### A Walk in Glitch City 
 This is a walk in Glitch City from the point of view of a computer ✨
-#### **[🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-1-A-Walk-in-Glitch-City-POV-computer-d2080bb5fd864ce7af71ba5afb0c4fdb)** | [🟢 Code](https://quixotic-mandible-495.notion.site/NOC-1-A-Walk-in-Glitch-City-POV-computer-d2080bb5fd864ce7af71ba5afb0c4fdb)
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/01_random_walker/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-1-A-Walk-in-Glitch-City-POV-computer-d2080bb5fd864ce7af71ba5afb0c4fdb)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/01_random_walker)
 
 </br>
-</br>
 
-## 2: 🏹 [Vectors](https://junebee66.github.io/co-vision/)<br/> 
+## 2: 🏹 [Vectors](https://github.com/nature-of-code/noc-syllabus-S23/tree/main/module01-vectors)<br/> 
 ### ☁️ Interactive PointCloud Garden
 I want to explore the form of vectors using the idea of morphing point-cloud.
-#### **[🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-2-Vector-d77ba47c234a4b1bba2c0bbee46bc66c) | [🟢 Code](https://quixotic-mandible-495.notion.site/NOC-1-A-Walk-in-Glitch-City-POV-computer-d2080bb5fd864ce7af71ba5afb0c4fdb)
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/02_vectors/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-2-Vector-d77ba47c234a4b1bba2c0bbee46bc66c)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/02_vectors)
 
 
-## 3: 💨 [Forces](https://junebee66.github.io/co-vision/)<br/> 
-## 4: 🕰️ [Oscillating Motion](https://junebee66.github.io/co-vision/)<br/> 
-## 5: 🌎 [Simulation Project (Particle Systems & Autonomous Agents)](https://junebee66.github.io/co-vision/)<br/> 
+## 3: 💨 [Forces]()<br/> 
+## 4: 🕰️ [Oscillating Motion]()<br/> 
+## 5: 🌎 [Simulation Project (Particle Systems & Autonomous Agents)]()br/> 
