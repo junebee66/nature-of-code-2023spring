@@ -39,4 +39,4 @@ What happens when there is no boundaries in an environemnt? The goal is to pixel
 ## 6: 🏐 [Soft Body (toxiclibs library)]()
 ### 🧘🏻‍♀️ The Breathing Deformer: Customizable Sphere
 What if the customizable deformation is intelligent which always balance itself into a coherent being ? The goal is to allow users to model their own intellegent mesh.
-#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/05_simulation_project/Simulation%20Project%20-%20Final%20Garden/index.html) | [🔵 Documentationhttps://quixotic-mandible-495.notion.site/NOC-6-Soft-Body-The-Breathing-Deformer-02d5278206e24eb39d4b64c2948584a7)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/05_simulation_project)
+#### **[🟡 Final Sketch](https://junebee66.github.io/nature-of-code-2023spring/06-soft-body/index.html) | [🔵 Documentation](https://quixotic-mandible-495.notion.site/NOC-6-Soft-Body-The-Breathing-Deformer-02d5278206e24eb39d4b64c2948584a7)** | [🟢 Code](https://github.com/junebee66/nature-of-code-2023spring/tree/main/06-soft-body)
